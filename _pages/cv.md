@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Macromolecular Chemistry and Physics, Fudan University, 2024
+<!-- * M.S. in Jekyll, GitHub University, 2014 -->
+* B.S. in Chemistry, Nankai University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 07/2024 - Present: Post-Doctoral Associate
+  * Department of Chemical Engineering and Materials Science
+  * Supervisor: Kevin D. Dorfman
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Hub -->
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Outstanding Dissertation Award of Nankai University. (2019)
+* First prize for oral presentation in The Academic Forum on Polymer of Fudan University. (2020)
+* Best poster award in 2021 National Polymer Academic Paper Conference. (2021)
+* Outstanding Student of Fudan University. (2021)
+* Doctoral Academic Merit Scholarship of Fudan University. (2022)
+* Outstanding League Cadres of Fudan University. (2023)
+* National Scholarship for Doctoral Students. (2023)
+* Best poster award in 2023 National Polymer Academic Paper Conference. (2023)
+* Excellent poster award in 14th International Symposium on Polymer Physics (2024)
+* Best poster award in 24th CCS Congress (2024)
+* Outstanding PhD Graduates of Fudan University (2024)
+
 
 Publications
 ======
