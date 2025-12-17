@@ -20,7 +20,7 @@ Work experience
   * Department of Chemical Engineering and Materials Science, University of Minnesota, Minneapolis, US
 
 Awards 
-*====
+====
 * 南开大学优秀学位论文 (2019)
 * 复旦大学博士生论坛：高分子篇 口头报告一等奖 (2020)
 * 中国化学会全国高分子学术论文报告会 最佳海报奖 (2021)
