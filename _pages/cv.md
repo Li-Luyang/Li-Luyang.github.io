@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in New Energy Science & Technology, Huazhong University of Science and Technology, 2020 
-* B.S. in New Energy Science & Technology, Huazhong University of Science and Technology, 2015
+* Ph.D in Macromolecular Chemistry and Physics, Fudan University, 2024 
+* B.S. in Chemistry, Nankai University, 2019
 
 Work experience
 ======
-* From March 2025 to Present: Associate Professor
-  * College of Materials, Xiamen University
-
-* From December 2022 to December 2024: Marie Skłodowska-Curie Fellow
-  * French National Centre for Scientific Research (CNRS), Paris, France
-
-* From April 2021 to November 2022: Postdoctoral Researcher
-  * PHENIX Lab, CNRS / Sorbonne University, Paris, France
-  * Supervisor: Mathieu Salanne
-
-* From September 2020 to March 2021: Research Associate
-  * College of Materials Science and Engineering, Nanjing University of Aeronautics and Astronautics, Nanjing, China
+* From July 2024 to Present: Post-Doctoral Associate
+  * Department of Chemical Engineering and Materials Science, University of Minnesota, Minneapolis, US
 
 Awards 
-======
-* 湖北省自然科学一等奖（4th/5）, 2023
-* Marie Skłodowska-Curie Fellow, 2022
-* Outstanding Graduate of Huazhong University of Science and Technology, 2020
-* WorldQuant BRAIN's International Quant Championship, Champion of the UK, 2019
+*====
+* 南开大学优秀学位论文 (2019)
+* 复旦大学博士生论坛：高分子篇 口头报告一等奖 (2020)
+* 中国化学会全国高分子学术论文报告会 最佳海报奖 (2021)
+* 复旦大学优秀学生 (2021)
+* 复旦大学优秀团支书 (2023)
+* 复旦大学博士生国家奖学金 (2023)
+* 中国化学会全国高分子学术论文报告会 最佳海报奖 (2023)
+* 第十四届国际高分子物理研讨会 最佳海报奖 (2024)
+* 第34届中国化学会年会 最佳海报奖 (2024)
+* 上海市优秀毕业生 (2024)
+
 
 Publications
 ======
@@ -57,23 +54,14 @@ Teaching
 
 Service and leadership
 ======
-* Reviewer for:
+Reviewer for:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
   <div style="width: 48%; padding-right: 10px; margin-left: 20px;">
-    <strong>ACS Nano</strong><br>
-    <strong>Advanced Functional Materials</strong><br>
-    <strong>Applied Surface Science</strong><br>
-    <strong>ACS Applied Materials & Interfaces</strong><br>
-    <strong>Carbon</strong><br>
-    <strong>Energy Storage Materials</strong><br>
-    <strong>Inorganic Chemistry Frontiers</strong><br>
+    <strong>Macromolecules</strong><br>
+    <strong>Polymer</strong><br>
+    <strong>Soft Matter</strong><br>
   </div>
-  <div style="width: 48%; padding-left: 10px;">
+  <!-- <div style="width: 48%; padding-left: 10px;">
     <strong>Journal of Power Sources</strong><br>
-    <strong>Journal of Materials Chemistry A</strong><br>
-    <strong>Journal of Physics: Condensed Matter</strong><br>
-    <strong>Journal of Chemical Physics</strong><br>
-    <strong>Nanoscale</strong><br>
-    <strong>RSC Advances</strong><br>
-  </div>
+  </div> -->
 </div>
